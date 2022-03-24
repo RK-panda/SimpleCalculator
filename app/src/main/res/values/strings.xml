@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Add Numbers</string>
+    <string name="calculator">Calculator</string>
+    <string name="first_no">first no</string>
+    <string name="second_no">second no</string>
+    <string name="calculate">Calculate</string>
+    <string name="add_result">Add Result:</string>
+    <string name="subtraction_result">Subtraction Result:</string>
+    <string name="multiply_result">Multiply result:</string>
+    <string name="divide_result">Divide Result:</string>
+    <string name="add">add</string>
+    <string name="sub">sub</string>
+    <string name="multiply">multiply</string>
+    <string name="div">div</string>
+</resources>
